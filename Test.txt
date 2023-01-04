@@ -1,3 +1,3 @@
-This is my another thing called commit!
+This is again my commit called commit!
 
 And here we go with commit thing number 2!
